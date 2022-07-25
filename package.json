@@ -2,15 +2,15 @@
 	"name": "svelte-electron-typescript-tailwindcss-boilerplate",
 	"version": "1.0.0",
 	"private": true,
-	"description": "A minmimal svelte-typescript-tailwindcss & electron boilerplate template with built in hot-reloading and code formatting.",
+	"description": "A minimal svelte-typescript-tailwindcss & electron boilerplate template with built in hot-reloading and code formatting.",
 	"main": "./electron/out/app.js",
 	"repository": {
-		"url": "https://github.com/tylerlaceby/electron-svelte"
+		"url": "https://github.com/DMDComposer/Svelte-Electron-Typescript-Tailwindcss-Boilerplate"
 	},
 	"author": {
 		"email": "DMDComposer@gmail.com",
 		"name": "DMDComposer",
-		"url": "https://github.com/DMDComposer"
+		"url": "https://github.com/DMDComposer/"
 	},
 	"build": {
 		"appId": "com.dmdcomposer.svelte-electron-typescript-tailwindcss-boilerplate",
