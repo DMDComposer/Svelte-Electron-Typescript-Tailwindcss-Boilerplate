@@ -1,6 +1,6 @@
 {
 	"name": "svelte-electron-typescript-tailwindcss-boilerplate",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"private": true,
 	"description": "A minimal svelte-typescript-tailwindcss & electron boilerplate template with built in hot-reloading and code formatting.",
 	"main": "./electron/out/app.js",
